@@ -17,7 +17,7 @@
   <li style="animation: fadeInUp 1.7s ease;">🤝 Looking to collaborate on <strong>Web Development Projects</strong></li>
   <li style="animation: fadeInUp 1.9s ease;">💬 Ask me about <strong>Web Development, Project Management, or Software Engineering</strong></li>
   <li style="animation: fadeInUp 2.1s ease;">📫 How to reach me: <a href="mailto:kasuniik417@gmail.com" style="color: #ff6347;"><strong>hashanwickramasooriya14@gmail.com</strong></a></li>
-  <li style="animation: fadeInUp 2.3s ease;">😄 Fun fact: You can call me <strong>Kasu!</strong></li>
+  <li style="animation: fadeInUp 2.3s ease;">😄 Fun fact: You can call me <strong>Hash!</strong></li>
 </ul>
 
 ## 📬 Connect with Me
