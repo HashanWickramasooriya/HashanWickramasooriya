@@ -1,14 +1,14 @@
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ===================== HERO ===================== -->
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#ff4d4d;">Hashan Wickramasooriya</span>
+  Hi 👋 I'm <span style="color:#ff4d4d;">Hashan Janith Wickramasooriya</span>
 </h1>
 
 <h3 align="center">
-  Software Engineering Undergraduate | Web Developer | Problem Solver
+  Software Engineering Undergraduate · UI/UX Designer · Web Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=600&lines=Turning+ideas+into+real+world+software;Building+clean+and+scalable+web+apps;Always+learning%2C+always+improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=20&duration=3000&pause=800&color=FF4D4D&center=true&vCenter=true&width=700&lines=Designing+user-centered+digital+experiences;Turning+ideas+into+intuitive+interfaces;Where+design+meets+engineering" />
 </p>
 
 <p align="center">
@@ -16,77 +16,116 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="750" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="780" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **Software Engineering Undergraduate**
-- 🌱 Currently mastering **React.js & Next.js**
-- 🚀 Passionate about **Web Development & UI/UX**
-- 🤝 Open to **collaborations & open-source projects**
-- 💬 Ask me about **Frontend, Backend, or Project Planning**
-- 📫 Reach me at: **hashanwickramasooriya14@gmail.com**
-- 😄 Fun fact: People call me **Hash**
+Creative and detail-oriented **Software Engineering undergraduate** with a strong passion for **UI/UX design and user-centered digital experiences**.  
+I combine **design thinking** with **technical development skills** to create intuitive, accessible, and visually engaging applications.
+
+- 🎓 BSc (Hons) in Software Engineering *(Reading)*
+- 🎨 UI/UX Designer with strong **Figma & prototyping** skills
+- 💻 Web Developer with **HTML, CSS & JavaScript**
+- 🌱 Currently improving **React & modern frontend workflows**
+- 🤝 Open to **UI/UX, Web & Open-Source collaborations**
+- 📫 Email: **hashanwickramasooriya14@gmail.com**
+- 😄 You can call me **Hash**
 
 ---
 
-## 🌐 Connect With Me
+## 🎓 Education
 
-<p align="center">
-  <a href="https://linkedin.com/in/hashan-wickramasooriya-22a674235" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  <a href="https://fb.com/hashan.wickramasooriya.90" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
-  </a>
-  <a href="https://instagram.com/hash_vish" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
-</p>
+**BSc (Hons) in Software Engineering**  
+📍 ICBT Campus — Affiliated with Cardiff Metropolitan University  
+🗓️ 2025 – Present  
+
+**Higher National Diploma (HND) in Computing & Software Engineering**  
+📍 ICBT Campus — Affiliated with Cardiff Metropolitan University  
+🗓️ 2022 – 2024  
+
+**Assured Diploma in English (DIE)**  
+📍 ESOFT Metro Campus (Pearson Assured) — 2021  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
-### 💻 Languages
+### 🎨 UI / UX Design
+- User-Centered Design
+- Wireframing & Prototyping
+- Responsive Interface Design
+- Design Systems & Layouts
+- Accessibility & Usability Principles
+
+### 💻 Development
+- HTML5 / CSS3
+- Basic JavaScript
+- PHP (Basics)
+- Web Development Fundamentals
+- System Design Concepts
+
+### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,cs,cpp" />
-</p>
-
-### ⚙️ Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind" />
-</p>
-
-### 🗄️ Databases & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=figma,html,css,js,php,git,github,mysql,firebase" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 📜 Certifications & Learning
 
-🚀 **Event Management System**  
-🎯 Full-stack system with admin dashboard & authentication
-
-🦷 **Dental Care Website**  
-🎨 Modern UI with responsive design
-
-🧁 **Cupcake Factory Mobile App**  
-📱 Mobile-first design with Firebase integration
-
-🎬 **Movie Theatre Web Application**  
-🎟️ Booking system with dynamic UI
-
-> 🔗 *Check my repositories to explore more projects!*
+- 🏆 **Figma for UX Design** – Birdify (2024)
+- 🏆 **Figma Essential Training: The Basics** – Birdify (2024)
+- 🏆 **UX Design: Overview** – Birdify (2024)
+- 🏆 **Adobe Photoshop Essential Training** – Adobe Digital Learning (2024)
+- 🏆 **Premiere Pro for Social Media Content** – Birdify (2024)
+- 🏆 **Python for Beginners** – University of Moratuwa (2024)
+- 🏆 **Advanced SQL Practice** – Birdify (2024)
+- 🏆 **Responsible AI for Managers** – Birdify (2024)
+- 🏆 **Software and the Law** – The Open University (2024)
 
 ---
 
-## 📊 GitHub Analytics
+## 🚀 Featured Projects
+
+### 🧁 Cupcake Factory Mobile App
+**UI/UX + Mobile App Design**  
+Designed a user-friendly cupcake ordering app with intuitive product browsing, customization flows, and smooth checkout experience.
+
+### 🎬 Movie Theatre Web Application
+**Web Application Development**  
+Responsive online ticket booking system with streamlined user flows from movie browsing to seat selection and checkout.
+
+### 🦷 Dental Care Website
+**UI-Focused Web Design**  
+Modern, accessible dental clinic website with appointment booking and improved content hierarchy.
+
+### 🪑 Furniture Shop Website (Figma)
+**UI/UX Design Project**  
+E-commerce furniture website UI with structured product layouts, clean navigation, and responsive design principles.
+
+### 🎟 Movie Ticket Booking App (Figma)
+**Mobile UI Design**  
+Modern ticket booking app UI focused on seamless navigation, showtime browsing, and engaging visuals.
+
+---
+
+## 🌐 Portfolio & Profiles
+
+- 🌍 **Portfolio Website**  
+  👉 https://hashanjanithwickramasooriya.netlify.app/
+
+- 💻 **GitHub**  
+  👉 https://github.com/HashanWickramasooriya
+
+- 🎨 **Behance (UI/UX Work)**  
+  👉 https://www.behance.net/hashanwickram1
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HashanWickramasooriya&show_icons=true&theme=radical" width="48%" />
@@ -99,12 +138,9 @@
 
 ---
 
-## ✨ Personal Motto
+## ✨ Personal Statement
 
-<p align="center">
-  <i>"Code is not just about syntax — it's about creating impact."</i>
-</p>
+> *“Great design is not how it looks — it’s how it works.”*  
+> I aim to build digital experiences that are **simple, usable, and meaningful**.
 
-<p align="center">
-  ⭐ If you like my work, consider starring my repositories!
-</p>
+⭐ If you like my work, consider **starring my repositories**!
