@@ -25,7 +25,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="320" />
 
-I'm **Hash**: a Software Engineering undergraduate who lives at the intersection of **design and engineering**. I build interfaces that don't just look premium, they *feel* intentional: accessible, user-centered, and quietly futuristic.
+I'm **Hashan**: a Software Engineering undergraduate who lives at the intersection of **design and engineering**. I build interfaces that don't just look premium, they *feel* intentional: accessible, user-centered, and quietly futuristic.
 
 ```
 > class Hashan {
@@ -268,7 +268,7 @@ Online room reservation system for a resort, handling bookings end-to-end.
 
 <br/><br/>
 
-<img src="https://ghchart.rshah.org/00E5FF/HashanWickramasooriya" width="90%" alt="Hashan's GitHub Contribution Graph" />
+<img src="https://ghchart.rshah.org/39d353/HashanWickramasooriya" width="90%" alt="Hashan's GitHub Contribution Graph" />
 
 </div>
 
