@@ -25,7 +25,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="320" />
 
-I'm **Hash** — a Software Engineering undergraduate who lives at the intersection of **design and engineering**. I build interfaces that don't just look premium, they *feel* intentional: accessible, user-centered, and quietly futuristic.
+I'm **Hash**: a Software Engineering undergraduate who lives at the intersection of **design and engineering**. I build interfaces that don't just look premium, they *feel* intentional: accessible, user-centered, and quietly futuristic.
 
 ```
 > class Hashan {
@@ -38,8 +38,8 @@ I'm **Hash** — a Software Engineering undergraduate who lives at the intersect
 ```
 
 - 🎓 BSc (Hons) in Software Engineering *(Reading)*
-- 🎨 UI/UX Designer — Figma, prototyping, design systems
-- 💻 Full-Stack Developer — TypeScript, JavaScript, React, Java, C#, HTML/CSS
+- 🎨 UI/UX Designer: Figma, prototyping, design systems
+- 💻 Full-Stack Developer: TypeScript, JavaScript, React, Java, C#, HTML/CSS
 - 🧠 Building AI-integrated platforms (LMS, business ops, assistants)
 - 🤝 Open to collaboration on UI/UX, Web & Open-Source projects
 - 📫 **hashanwickramasooriya14@gmail.com**
@@ -54,15 +54,15 @@ I'm **Hash** — a Software Engineering undergraduate who lives at the intersect
 <td width="70%">
 
 **BSc (Hons) Software Engineering**
-ICBT Campus — affiliated with Cardiff Metropolitan University
-`2025 — Present`
+ICBT Campus: affiliated with Cardiff Metropolitan University
+`2025 - Present`
 
 **HND in Computing & Software Engineering**
-ICBT Campus — affiliated with Cardiff Metropolitan University
-`2022 — 2024`
+ICBT Campus: affiliated with Cardiff Metropolitan University
+`2022 - 2024`
 
 **Assured Diploma in English (DIE)**
-ESOFT Metro Campus — Pearson Assured
+ESOFT Metro Campus: Pearson Assured
 `2021`
 
 </td>
@@ -133,7 +133,7 @@ ESOFT Metro Campus — Pearson Assured
 
 ### 🌑 [The Dark Intersection](https://github.com/HashanWickramasooriya/The-Dark-Intersection)
 `TypeScript`
-Latest build — actively in development.
+Latest build: actively in development.
 
 </td>
 <td width="50%" valign="top">
@@ -163,14 +163,14 @@ A personal AI assistant application built with modern TypeScript tooling.
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ [FlowPilot — AI Business Operations Platform](https://github.com/HashanWickramasooriya/FlowPilot---AI-Business-Operations-Platform)
+### ⚙️ [FlowPilot: AI Business Operations Platform](https://github.com/HashanWickramasooriya/FlowPilot---AI-Business-Operations-Platform)
 `TypeScript`
 AI-driven platform for streamlining core business operations.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛍 [Shopora — Modern Ecommerce Platform](https://github.com/HashanWickramasooriya/Shopora-Modern-Ecommerce-Platform)
+### 🛍 [Shopora: Modern Ecommerce Platform](https://github.com/HashanWickramasooriya/Shopora-Modern-Ecommerce-Platform)
 `TypeScript`
 A modern, full-featured ecommerce web platform.
 
@@ -179,14 +179,14 @@ A modern, full-featured ecommerce web platform.
 <tr>
 <td width="50%" valign="top">
 
-### 🏡 [EstateFlow — Real Estate Marketplace](https://github.com/HashanWickramasooriya/EstateFlow---Real-Estate-Marketplace)
+### 🏡 [EstateFlow: Real Estate Marketplace](https://github.com/HashanWickramasooriya/EstateFlow---Real-Estate-Marketplace)
 `TypeScript`
 A real estate listing and marketplace web application.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎫 [EventHub — Event & Ticket Platform](https://github.com/HashanWickramasooriya/EventHub-Event---Ticket-Platform)
+### 🎫 [EventHub: Event & Ticket Platform](https://github.com/HashanWickramasooriya/EventHub-Event---Ticket-Platform)
 `TypeScript`
 A platform for event discovery and online ticketing.
 
@@ -195,14 +195,14 @@ A platform for event discovery and online ticketing.
 <tr>
 <td width="50%" valign="top">
 
-### 🌴 [LankaRoam — Travel & Experience Marketplace](https://github.com/HashanWickramasooriya/LankaRoam-Travel---Experience-Marketplace)
+### 🌴 [LankaRoam: Travel & Experience Marketplace](https://github.com/HashanWickramasooriya/LankaRoam-Travel---Experience-Marketplace)
 `TypeScript`
 A travel and local-experience marketplace built for explorers.
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 [AutoX — 3D Car Showroom](https://github.com/HashanWickramasooriya/AutoX---3D-Car-Showroom)
+### 🚗 [AutoX: 3D Car Showroom](https://github.com/HashanWickramasooriya/AutoX---3D-Car-Showroom)
 `TypeScript`
 An interactive 3D car showroom web experience.
 
@@ -227,14 +227,14 @@ A quick-access hub for emergency information and services.
 <tr>
 <td width="50%" valign="top">
 
-### 🕹 [The Last Lantern — Browser Game](https://github.com/HashanWickramasooriya/The-Last-Lantern---Browser-Game)
+### 🕹 [The Last Lantern: Browser Game](https://github.com/HashanWickramasooriya/The-Last-Lantern---Browser-Game)
 `JavaScript`
 An atmospheric browser-based game built for the web.
 
 </td>
 <td width="50%" valign="top">
 
-### 🏨 [Ocean View Resort — Room Reservation System](https://github.com/HashanWickramasooriya/Ocean-View-Resort-Online-room-reservation-System)
+### 🏨 [Ocean View Resort: Room Reservation System](https://github.com/HashanWickramasooriya/Ocean-View-Resort-Online-room-reservation-System)
 `Java`
 Online room reservation system for a resort, handling bookings end-to-end.
 
@@ -265,7 +265,7 @@ Online room reservation system for a resort, handling bookings end-to-end.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=HashanWickramasooriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00E5FF&icon_color=6C2BD9&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HashanWickramasooriya&theme=tokyonight&hide_border=true&background=0F0F1A&ring=00E5FF&fire=6C2BD9&currStreakLabel=00E5FF" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=HashanWickramasooriya&theme=tokyonight&hide_border=true&background=0F0F1A&ring=00E5FF&fire=6C2BD9&currStreakLabel=00E5FF" width="48%" />
 
 <br/>
 
@@ -280,7 +280,7 @@ Online room reservation system for a resort, handling bookings end-to-end.
 
 <div align="center">
 
-> *"Great design is not how it looks — it's how it works."*
+> *"Great design is not how it looks: it's how it works."*
 
 **Building digital experiences that are simple, usable, and meaningful.**
 
