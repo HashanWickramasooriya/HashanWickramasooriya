@@ -264,12 +264,30 @@ Online room reservation system for a resort, handling bookings end-to-end.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HashanWickramasooriya&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00E5FF&icon_color=6C2BD9&text_color=c9d1d9" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=HashanWickramasooriya&theme=tokyonight&hide_border=true&background=0F0F1A&ring=00E5FF&fire=6C2BD9&currStreakLabel=00E5FF" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=HashanWickramasooriya&theme=tokyonight&hide_border=true&background=0F0F1A&ring=00E5FF&fire=6C2BD9&currStreakLabel=00E5FF" width="60%" />
+
+</div>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HashanWickramasooriya&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F1A&title_color=00E5FF&text_color=c9d1d9" width="45%" />
+<div align="center">
+
+| Repository | Language | Stars | Last Updated |
+|---|---|---|---|
+| [The Dark Intersection](https://github.com/HashanWickramasooriya/The-Dark-Intersection) | TypeScript | - | Aug 2026 |
+| [CareerSync](https://github.com/HashanWickramasooriya/CareerSync) | JavaScript | ⭐ 1 | Aug 2026 |
+| [The Last Lantern - Browser Game](https://github.com/HashanWickramasooriya/The-Last-Lantern---Browser-Game) | JavaScript | ⭐ 1 | Aug 2026 |
+| [Dinosaur Museum Website](https://github.com/HashanWickramasooriya/Dinosaur-Museum-website) | TypeScript | ⭐ 1 | Aug 2026 |
+| [AutoX - 3D Car Showroom](https://github.com/HashanWickramasooriya/AutoX---3D-Car-Showroom) | TypeScript | ⭐ 1 | Aug 2026 |
+| [EventHub - Event & Ticket Platform](https://github.com/HashanWickramasooriya/EventHub-Event---Ticket-Platform) | TypeScript | ⭐ 1 | Aug 2026 |
+| [LankaRoam - Travel Marketplace](https://github.com/HashanWickramasooriya/LankaRoam-Travel---Experience-Marketplace) | TypeScript | ⭐ 1 | Aug 2026 |
+| [Shopora - Ecommerce Platform](https://github.com/HashanWickramasooriya/Shopora-Modern-Ecommerce-Platform) | TypeScript | ⭐ 1 | Aug 2026 |
+| [EstateFlow - Real Estate Marketplace](https://github.com/HashanWickramasooriya/EstateFlow---Real-Estate-Marketplace) | TypeScript | ⭐ 1 | Aug 2026 |
+| [AI-Powered LMS](https://github.com/HashanWickramasooriya/AI-Powered-Learning-Management-LMS) | TypeScript | ⭐ 1 | Aug 2026 |
+| [Emergency Hub](https://github.com/HashanWickramasooriya/Emergency-Hub) | HTML | ⭐ 1 | Aug 2026 |
+| [FlowPilot - AI Business Ops](https://github.com/HashanWickramasooriya/FlowPilot---AI-Business-Operations-Platform) | TypeScript | ⭐ 1 | Aug 2026 |
+| [Jarvis AI Assistant](https://github.com/HashanWickramasooriya/Jarvis-AI-Assistant) | TypeScript | ⭐ 1 | Aug 2026 |
+| [Ocean View Resort Reservation](https://github.com/HashanWickramasooriya/Ocean-View-Resort-Online-room-reservation-System) | Java | ⭐ 2 | Feb 2026 |
 
 </div>
 
